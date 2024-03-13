@@ -1,7 +1,7 @@
-name: dart_package
-description: A starting point for Dart libraries or applications.
-version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+name: say_hello
+description: Try dart package.
+version: 0.0.2
+repository: https://github.com/akulnurislam/dart-package
 
 environment:
   sdk: ^3.3.1

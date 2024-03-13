@@ -1,4 +1,4 @@
-import 'package:dart_package/hello.dart';
+import 'package:say_hello/hello.dart';
 
 void main() {
   var hello = sayHello('Akul');
